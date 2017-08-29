@@ -1,0 +1,39 @@
+.displayBox{
+	width:125px;
+	height: 25px;
+	margin: 2px;
+}
+
+.number{
+	float: left;
+	width: 30px;
+	height:30px;
+	background-color: lightgray;
+	border-radius: 4px;
+	text-align: center;
+	margin: 2px;
+}
+
+.clearfix{
+	clear: left;
+	content: " ";
+	display: block;
+
+}
+
+
+#grid{
+	
+    margin-left: 50%;
+    margin-top: 10%;
+    border: 0.2px solid black;
+    width: 136px;
+    height: 204px;
+    border-radius: 5px;
+
+}
+
+.head{
+	margin-left: 47%;
+	margin-top:9%;
+}
